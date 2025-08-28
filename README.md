@@ -9,7 +9,7 @@ The internship was aimed at providing practical exposure to software development
 
 📑 Contents
 
-Report.pdf → Final internship report (formatted as per NIELIT guidelines).
+Report.pdf → Final internship report (formatted as per University guidelines).
 
 Source_Code/ → Supporting project files, scripts, or sample implementations.
 
